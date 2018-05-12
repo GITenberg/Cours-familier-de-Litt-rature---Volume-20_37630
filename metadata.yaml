@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
     - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37630#Cours-familier-de-Litt-rature---Volume-20
 gutenberg_bookshelf:
 - France
 - FR Littérature
